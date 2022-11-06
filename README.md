@@ -1,7 +1,7 @@
 # Tax-App
 Tax App is an Android App which tells the amount of tax paid by the individual and display its inhand salary. 
 
-<img src="https://user-images.githubusercontent.com/110735413/200158610-4ac400a3-8d55-4424-a653-3ffaac53d11a.png" height="500">
+<center><img src="https://user-images.githubusercontent.com/110735413/200158610-4ac400a3-8d55-4424-a653-3ffaac53d11a.png" height="500"></center>
 
 Sample Case:
 
