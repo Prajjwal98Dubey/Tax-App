@@ -5,4 +5,4 @@ Tax App is an Android App which tells the amount of tax paid by the individual a
 
 Sample Case:
 
-<img src="https://user-images.githubusercontent.com/110735413/200158612-65882a7d-2b6d-40e1-9450-024ea9f2403f.png" height="500"">
+<img src="https://user-images.githubusercontent.com/110735413/200158612-65882a7d-2b6d-40e1-9450-024ea9f2403f.png" height="500">
